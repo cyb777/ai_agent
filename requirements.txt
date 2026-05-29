@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+langchain-openai
+langchain
+langgraph
+langgraph-checkpoint
+langchain-core
+pymysql
+redis
+python-dotenv
+pydantic
